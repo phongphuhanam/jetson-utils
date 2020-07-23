@@ -48,6 +48,8 @@ public:
 	 */
 	URI resource;
 
+	std::string output_uri;
+
 	/**
 	 * The width of the stream (in pixels).
 	 * This option can be set from the command line using `--input-width=N`
