@@ -27,7 +27,7 @@
 #include <unistd.h>
 #include <math.h>
 
-#include "logging.h"
+#include "nvlogging.h"
 
 
 /**

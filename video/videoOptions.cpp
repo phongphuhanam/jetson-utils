@@ -22,7 +22,7 @@
  
 #include "videoOptions.h"
 
-#include "logging.h"
+#include "nvlogging.h"
 #include <strings.h>
 
 

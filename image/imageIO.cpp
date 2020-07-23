@@ -26,7 +26,7 @@
 #include "cudaColorspace.h"
 
 #include "filesystem.h"
-#include "logging.h"
+#include "nvlogging.h"
 
 #define STB_IMAGE_IMPLEMENTATION
 #include "stb/stb_image.h"

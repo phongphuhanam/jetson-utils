@@ -21,7 +21,7 @@
  */
 
 #include "gstUtility.h"
-#include "logging.h"
+#include "nvlogging.h"
 
 #include <gst/gst.h>
 #include <stdint.h>

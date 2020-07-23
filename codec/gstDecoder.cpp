@@ -23,7 +23,7 @@
 #include "gstDecoder.h"
 #include "cudaColorspace.h"
 
-#include "logging.h"
+#include "nvlogging.h"
 #include "filesystem.h"
 
 #include <gst/gst.h>

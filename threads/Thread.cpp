@@ -28,7 +28,7 @@
 #include <string.h>
 #include <sys/mman.h>
 
-#include "logging.h"
+#include "nvlogging.h"
 
 
 // constructor

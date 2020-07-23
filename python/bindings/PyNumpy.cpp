@@ -24,7 +24,7 @@
 #include "PyCUDA.h"
 
 #include "cudaMappedMemory.h"
-#include "logging.h"
+#include "nvlogging.h"
 
 #ifdef HAS_NUMPY
 

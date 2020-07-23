@@ -24,7 +24,7 @@
 #include "imageIO.h"
 
 #include "filesystem.h"
-#include "logging.h"
+#include "nvlogging.h"
 
 #include <strings.h>
 

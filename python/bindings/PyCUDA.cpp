@@ -30,7 +30,7 @@
 #include "cudaCrop.h"
 #include "cudaFont.h"
 
-#include "logging.h"
+#include "nvlogging.h"
 
 
 //-------------------------------------------------------------------------------

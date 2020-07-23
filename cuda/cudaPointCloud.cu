@@ -23,7 +23,7 @@
 #include "cudaPointCloud.h"
 #include "cudaColormap.h"
 
-#include "logging.h"
+#include "nvlogging.h"
 
 
 // float4 to uchar3

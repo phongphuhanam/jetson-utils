@@ -32,7 +32,7 @@
 
 #include "cudaColorspace.h"
 #include "filesystem.h"
-#include "logging.h"
+#include "nvlogging.h"
 
 #include "NvInfer.h"
 

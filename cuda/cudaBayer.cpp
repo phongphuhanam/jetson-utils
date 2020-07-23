@@ -21,7 +21,7 @@
  */
 
 #include "cudaBayer.h"
-#include "logging.h"
+#include "nvlogging.h"
 
 #include <nppi.h>
 

@@ -24,7 +24,7 @@
 
 #include "filesystem.h"
 #include "timespec.h"
-#include "logging.h"
+#include "nvlogging.h"
 
 #include "cudaColorspace.h"
 

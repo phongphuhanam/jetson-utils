@@ -29,7 +29,7 @@
 #include "PyImageIO.h"
 #include "PyNumpy.h"
 
-#include "logging.h"
+#include "nvlogging.h"
 
 
 const uint32_t pyUtilsMaxFunctions = 128;

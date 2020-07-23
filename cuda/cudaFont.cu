@@ -27,7 +27,7 @@
 
 #include "imageIO.h"
 #include "filesystem.h"
-#include "logging.h"
+#include "nvlogging.h"
 
 #define STBTT_STATIC
 #define STB_TRUETYPE_IMPLEMENTATION

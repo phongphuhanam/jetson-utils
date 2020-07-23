@@ -30,7 +30,7 @@
 #include <linux/input.h>
 #include <sys/ioctl.h>
 
-#include "logging.h"
+#include "nvlogging.h"
 
 
 // constructor

@@ -28,7 +28,7 @@
 #include <GL/glx.h>
 
 #include <stdio.h>
-#include "logging.h"
+#include "nvlogging.h"
 
 
 /**

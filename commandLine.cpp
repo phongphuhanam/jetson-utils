@@ -21,7 +21,7 @@
  */
 
 #include "commandLine.h"
-#include "logging.h"
+#include "nvlogging.h"
 
 #include <string>
 #include <string.h>

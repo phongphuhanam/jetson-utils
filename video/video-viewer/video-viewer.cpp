@@ -23,7 +23,7 @@
 #include "videoSource.h"
 #include "videoOutput.h"
 
-#include "logging.h"
+#include "nvlogging.h"
 #include "commandLine.h"
 
 #include <signal.h>

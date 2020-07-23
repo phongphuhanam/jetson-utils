@@ -24,7 +24,7 @@
 #include "PyCUDA.h"
 
 #include "glDisplay.h"
-#include "logging.h"
+#include "nvlogging.h"
 
 
 // PyDisplay container

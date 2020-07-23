@@ -28,7 +28,7 @@
 #include "glCamera.h"
 
 #include "mat33.h"
-#include "logging.h"
+#include "nvlogging.h"
 
 
 // constructor

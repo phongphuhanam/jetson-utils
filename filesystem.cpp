@@ -29,7 +29,7 @@
 #include <strings.h>
 #include <glob.h>
 
-#include "logging.h"
+#include "nvlogging.h"
 
 
 // absolutePath

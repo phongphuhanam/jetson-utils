@@ -24,7 +24,7 @@
 #include "PyCUDA.h"
 
 #include "gstCamera.h"
-#include "logging.h"
+#include "nvlogging.h"
 
 
 // PyCamera container

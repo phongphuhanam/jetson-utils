@@ -30,7 +30,7 @@
 #include <unistd.h>
 #include <errno.h>
 
-#include "logging.h"
+#include "nvlogging.h"
 
 
 // printErrno

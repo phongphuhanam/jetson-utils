@@ -26,7 +26,7 @@
 
 #include "cudaUtility.h"
 #include "imageFormat.h"
-#include "logging.h"
+#include "nvlogging.h"
 
 
 /**

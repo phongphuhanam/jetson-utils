@@ -26,7 +26,7 @@
 #include "gstCamera.h"
 #include "gstDecoder.h"
 
-#include "logging.h"
+#include "nvlogging.h"
 
 
 // constructor

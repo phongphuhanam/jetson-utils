@@ -27,7 +27,7 @@
 #include "cudaBayer.h"
 #include "cudaGrayscale.h"
 
-#include "logging.h"
+#include "nvlogging.h"
 
 
 // cudaConvertColor

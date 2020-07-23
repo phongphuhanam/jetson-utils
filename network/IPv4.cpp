@@ -29,7 +29,7 @@
 #include <ifaddrs.h>
 #include <errno.h>
 
-#include "logging.h"
+#include "nvlogging.h"
 
 
 // IPv4Address

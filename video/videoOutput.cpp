@@ -26,7 +26,7 @@
 #include "glDisplay.h"
 #include "gstEncoder.h"
 
-#include "logging.h"
+#include "nvlogging.h"
 
 
 // constructor
